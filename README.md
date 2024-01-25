@@ -2,4 +2,4 @@
 
 👋 Seja bem-vindo(a)!
 
-Teste realizado nos campos obrigatorios, digitando dados reais e executando a ação de envio.
+-Teste realizado nos campos obrigatorios, digitando dados reais e executando a ação de envio.
